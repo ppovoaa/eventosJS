@@ -8,3 +8,4 @@ botao.addEventListener('click', function() {
     alert("Você cliclou no botão!")
 });
 
+
