@@ -10,5 +10,6 @@ console.log(ListaItens);
 
 const cor = document.getElementById('btn');
 cor.addEventListener('click', function() {
-    document.body.style.backgroundColor= 'purpple'
+    document.body.style.backgroundColor= 'purple'
 })
+
